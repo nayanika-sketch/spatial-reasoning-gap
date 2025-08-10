@@ -22,3 +22,22 @@ Modern vision and language models can recognize objects almost perfectly but oft
 
 ## Contact
 Nayanika Debnath — ndebnath@ethz.ch
+
+## Notebooks (outputs archived)
+
+The repository contains cleaned notebooks (outputs stripped) to keep the repository small and git-friendly.  
+A ZIP archive containing the original notebooks **with outputs preserved** has been added to the repository root:
+
+- `spatial-notebooks-with-outputs-2025-08-10.zip` — contains:
+  - `image_grid.ipynb`
+  - `masking_analysis.ipynb`
+  - `synthetic_entity.ipynb`
+  - `query_analysis.ipynb`
+  - `crop_analysis.ipynb`
+
+You can download the ZIP directly from the repository page or via the raw URL:
+`https://github.com/nayanika-sketch/spatial-reasoning-gap/raw/main/spatial-notebooks-with-outputs-2025-08-10.zip`
+
+**Notes**
+- The notebook files in the repository have their outputs stripped to keep the repo small; use the ZIP if you need the original outputs.  
+- If you prefer not to keep binary artifacts in the git history long-term, consider moving the ZIP to a GitHub Release or external storage (Google Drive/Zenodo) and removing it from the repo.
